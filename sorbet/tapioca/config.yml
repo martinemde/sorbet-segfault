@@ -1,0 +1,5 @@
+gem:
+  rbi_max_line_length: 10000
+
+dsl:
+  rbi_max_line_length: 10000

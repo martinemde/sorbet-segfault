@@ -1,0 +1,8 @@
+--dir=.
+--cache-dir=tmp/cache/sorbet
+--ignore=tmp/
+--ignore=vendor/
+--ignore=.buildkite/
+--ignore=spec/
+--debug-log-file=sorbet.log
+
